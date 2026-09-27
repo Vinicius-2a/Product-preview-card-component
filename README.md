@@ -1,4 +1,4 @@
-# Card Product - (INICIANTE)
+# Product preview card component - Frontend Mentor (INICIANTE)
 ##  Visão geral
 Esta é uma solução para o [ desafio do "Product preview card component" no Frontend Mentor ](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 O Desáfio é de replicar o design proposto.
@@ -9,7 +9,7 @@ O Desáfio é de replicar o design proposto.
 
 ###  Links
 
-- Url do meu Desáfio no FrontendMentor: []
+- Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-product-preview-card-component-com-reactjs-3nV-byYzpH]
 - URL da solução no GitHub: [https://github.com/Vinicius-2a/Card-Product-/]
 
 ##  Construído com
