@@ -10,7 +10,6 @@ O Desáfio é de replicar o design proposto.
 ###  Links
 
 - Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-product-preview-card-component-com-reactjs-3nV-byYzpH]
-- URL da solução no GitHub: [https://github.com/Vinicius-2a/Card-Product-/]
 
 ##  Construído com
 - React JS
